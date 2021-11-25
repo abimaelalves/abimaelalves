@@ -1,6 +1,6 @@
 ### Opa, sou o Abimael 👋
 
-- 🔭 SRE
+- 🔭 Atualmente trabalhando como SRE no C6 Bank
 
 <div align="center">
   <a href="https://github.com/abimaelalves">
