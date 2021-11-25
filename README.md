@@ -2,6 +2,7 @@
 
 - 💻 Atualmente trabalhando como SRE no C6 Bank
 - 💻 100% focado no conteúdo de K8s
+- 💻 Aluno KubeDev
 
 <div align="center">
   <a href="https://github.com/abimaelalves">
