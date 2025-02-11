@@ -1,6 +1,6 @@
 ### Opa, sou o Abimael 👋
 
-- 💻 Atualmente trabalhando como SRE no C6 Bank
+- 💻 Atualmente trabalhando como SRE no Itau
 - 💻 100% focado no conteúdo de K8s
 - 💻 Aluno KubeDev
 
